@@ -1,0 +1,6 @@
+username per me u kyq ne admin dashboard ku prej admin daashboard mund ti besh
+ ti gjitha funksionet e webit te shtosh user doktorr dhe te gjith funksionalitet e 
+webit
+
+username:admin
+password:admin
